@@ -20,6 +20,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get dist-upgrade
 sudo update-grub
+sudo chmod +x ./scripts/*
 # Reboot after this
 ```
 
