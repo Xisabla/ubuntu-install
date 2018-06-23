@@ -8,7 +8,7 @@ wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=d
 sudo dpkg --install discord.deb
 
 # Install dependencies
-sudo apt-get install --fix broken
+sudo apt-get install --fix-broken
 
 # Install discord
 sudo dpkg --install discord.deb
